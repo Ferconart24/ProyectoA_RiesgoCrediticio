@@ -1,0 +1,22 @@
+﻿{
+  "checking_status": "A11",
+  "duration": 6,
+  "credit_history": "A34",
+  "purpose": "A43",
+  "credit_amount": 1169,
+  "savings_status": "A65",
+  "employment": "A75",
+  "installment_rate": 4,
+  "personal_status": "A93",
+  "other_parties": "A101",
+  "residence_since": 4,
+  "property_magnitude": "A121",
+  "age": 67,
+  "other_payment_plans": "A143",
+  "housing": "A152",
+  "existing_credits": 2,
+  "job": "A173",
+  "num_dependents": 1,
+  "own_telephone": "A192",
+  "foreign_worker": "A201"
+}
